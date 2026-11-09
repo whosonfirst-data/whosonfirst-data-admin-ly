@@ -62,7 +62,7 @@
         "wk:page":"Kabaw"
     },
     "wof:country":"LY",
-    "wof:geomhash":"dbf32fb7ddaac1cf4c39c164b5fe8c6a",
+    "wof:geomhash":"9cb120fa46deee93fcd1c0abccd0588d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,5 +87,5 @@
     11.33055,
     31.84724000000001
 ],
-  "geometry": {"coordinates":[11.33055,31.84724000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.33055,31.84724],"type":"Point"}
 }

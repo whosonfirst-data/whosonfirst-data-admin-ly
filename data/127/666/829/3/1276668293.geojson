@@ -48,7 +48,7 @@
         "wk:page":"Al_Haniyah"
     },
     "wof:country":"LY",
-    "wof:geomhash":"bae64effc83faf1410ec5bc3b76f56e2",
+    "wof:geomhash":"ed8d620fdc1fe890ae63c669f5685e06",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,5 +73,5 @@
     21.52086,
     32.84099000000001
 ],
-  "geometry": {"coordinates":[21.52086,32.84099000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.52086,32.84099],"type":"Point"}
 }

@@ -36,7 +36,7 @@
         "gn:id":2219340
     },
     "wof:country":"LY",
-    "wof:geomhash":"e4bfd9dbe283cfe62301b3cb8c54e20c",
+    "wof:geomhash":"98fb6bc52cd8dc0cab7c4f779531930c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,5 +61,5 @@
     18.36667000000001,
     30.65
 ],
-  "geometry": {"coordinates":[18.36667000000001,30.65],"type":"Point"}
+  "geometry": {"coordinates":[18.36667,30.65],"type":"Point"}
 }

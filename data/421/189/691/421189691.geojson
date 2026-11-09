@@ -48,7 +48,7 @@
     },
     "wof:country":"LY",
     "wof:created":1459009633,
-    "wof:geomhash":"6e315e8f13cbaba3a4ebced502a1625e",
+    "wof:geomhash":"3b55c9f421e1499fad14d6546dbd9ec2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,5 +73,5 @@
     13.1008095,
     32.856049
 ],
-  "geometry": {"coordinates":[13.1008095,32.856049],"type":"Point"}
+  "geometry": {"coordinates":[13.10081,32.856049],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Slonta"
     },
     "wof:country":"LY",
-    "wof:geomhash":"37147e2c9f9a3d1e174bfef37a8b841e",
+    "wof:geomhash":"562aa52044c0225882f6637a515ce80a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,5 +77,5 @@
     21.71774,
     32.59135999999999
 ],
-  "geometry": {"coordinates":[21.71774,32.59135999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.71774,32.59136],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "gn:id":2219090
     },
     "wof:country":"LY",
-    "wof:geomhash":"a4b30f243e561ea930be5e9b37852793",
+    "wof:geomhash":"9cbb65a34d86d1952e07d7d98ce3110c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,5 +69,5 @@
     12.66902,
     32.08309000000001
 ],
-  "geometry": {"coordinates":[12.66902,32.08309000000001],"type":"Point"}
+  "geometry": {"coordinates":[12.66902,32.08309],"type":"Point"}
 }
