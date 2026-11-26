@@ -1,0 +1,72 @@
+{
+  "id": 9895041439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.69642,31.64676,12.69642,31.64676",
+    "geom:latitude":31.64676,
+    "geom:longitude":12.69642,
+    "iso:country":"LY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11739597: name \"W\u0101m\u012bs\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11739597"
+        },
+        {
+            "citation":"GeoNames populated place 11739597: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11739597"
+        },
+        {
+            "citation":"GeoNames populated place 11739597: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11739597"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673615 (Mizdah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627,
+        85673615,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11739597
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"e9c7086238486a28319675b5c3071413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":9895041439,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":9895041439,
+    "wof:lastmodified":1795735132,
+    "wof:name":"W\u0101m\u012bs",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.69642,
+    31.64676,
+    12.69642,
+    31.64676
+],
+  "geometry": {"coordinates":[12.69642,31.64676],"type":"Point"}
+}

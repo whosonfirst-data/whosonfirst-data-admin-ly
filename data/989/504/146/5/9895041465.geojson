@@ -1,0 +1,73 @@
+{
+  "id": 9895041465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.79099,32.79661,21.79099,32.79661",
+    "geom:latitude":32.79661,
+    "geom:longitude":21.79099,
+    "gn:population":11058,
+    "iso:country":"LY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687309: name \"Ward\u0101mah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687309"
+        },
+        {
+            "citation":"GeoNames populated place 12687309: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687309"
+        },
+        {
+            "citation":"GeoNames populated place 12687309: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687309"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673627 (Al Jabal al Akhdar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627,
+        85673627,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687309
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"30fc2e68a3a03bc6bd97e892ead6fc3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":9895041465,
+            "region_id":85673627
+        }
+    ],
+    "wof:id":9895041465,
+    "wof:lastmodified":1795735132,
+    "wof:name":"Ward\u0101mah",
+    "wof:parent_id":85673627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79099,
+    32.79661,
+    21.79099,
+    32.79661
+],
+  "geometry": {"coordinates":[21.79099,32.79661],"type":"Point"}
+}

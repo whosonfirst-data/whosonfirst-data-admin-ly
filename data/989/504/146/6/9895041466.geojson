@@ -1,0 +1,73 @@
+{
+  "id": 9895041466,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.8436,31.84637,11.8436,31.84637",
+    "geom:latitude":31.84637,
+    "geom:longitude":11.8436,
+    "gn:population":9989,
+    "iso:country":"LY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687312: name \"Ar-Ra\u1e25a\u012bb\u0101t\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687312"
+        },
+        {
+            "citation":"GeoNames populated place 12687312: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687312"
+        },
+        {
+            "citation":"GeoNames populated place 12687312: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687312"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673615 (Mizdah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627,
+        85673615,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687312
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"d34c7da85abc7dab8bf28e338483766f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":9895041466,
+            "region_id":85673615
+        }
+    ],
+    "wof:id":9895041466,
+    "wof:lastmodified":1795735132,
+    "wof:name":"Ar-Ra\u1e25a\u012bb\u0101t",
+    "wof:parent_id":85673615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.8436,
+    31.84637,
+    11.8436,
+    31.84637
+],
+  "geometry": {"coordinates":[11.8436,31.84637],"type":"Point"}
+}

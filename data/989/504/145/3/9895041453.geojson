@@ -1,0 +1,72 @@
+{
+  "id": 9895041453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03875,32.01634,15.03875,32.01634",
+    "geom:latitude":32.01634,
+    "geom:longitude":15.03875,
+    "iso:country":"LY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11869850: name \"Mall\u016bk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11869850"
+        },
+        {
+            "citation":"GeoNames populated place 11869850: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11869850"
+        },
+        {
+            "citation":"GeoNames populated place 11869850: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11869850"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673593 (Misratah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627,
+        85673593,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11869850
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"06568567a2719a4ac8ecf87717a44bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":9895041453,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":9895041453,
+    "wof:lastmodified":1795735132,
+    "wof:name":"Mall\u016bk",
+    "wof:parent_id":85673593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03875,
+    32.01634,
+    15.03875,
+    32.01634
+],
+  "geometry": {"coordinates":[15.03875,32.01634],"type":"Point"}
+}
