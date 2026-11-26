@@ -1,0 +1,72 @@
+{
+  "id": 9895041444,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.24484,26.56074,13.24484,26.56074",
+    "geom:latitude":26.56074,
+    "geom:longitude":13.24484,
+    "iso:country":"LY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11814167: name \"Takark\u012bbah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11814167"
+        },
+        {
+            "citation":"GeoNames populated place 11814167: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11814167"
+        },
+        {
+            "citation":"GeoNames populated place 11814167: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11814167"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673669 (Wadi al Hayaa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627,
+        85673669,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11814167
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"fe5a27995d7d152e4c0e73b6e69c7ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":9895041444,
+            "region_id":85673669
+        }
+    ],
+    "wof:id":9895041444,
+    "wof:lastmodified":1795735132,
+    "wof:name":"Takark\u012bbah",
+    "wof:parent_id":85673669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.24484,
+    26.56074,
+    13.24484,
+    26.56074
+],
+  "geometry": {"coordinates":[13.24484,26.56074],"type":"Point"}
+}

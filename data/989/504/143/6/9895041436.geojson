@@ -1,0 +1,72 @@
+{
+  "id": 9895041436,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9856,31.85668,19.9856,31.85668",
+    "geom:latitude":31.85668,
+    "geom:longitude":19.9856,
+    "iso:country":"LY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2213945: name \"Qaryat al Barr\u0101n\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2213945"
+        },
+        {
+            "citation":"GeoNames populated place 2213945: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2213945"
+        },
+        {
+            "citation":"GeoNames populated place 2213945: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2213945"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673635 (Benghazi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627,
+        85673635,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2213945
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"73bdc0083da44d9afd9506ed8907cc36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":9895041436,
+            "region_id":85673635
+        }
+    ],
+    "wof:id":9895041436,
+    "wof:lastmodified":1795735132,
+    "wof:name":"Qaryat al Barr\u0101n\u012b",
+    "wof:parent_id":85673635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9856,
+    31.85668,
+    19.9856,
+    31.85668
+],
+  "geometry": {"coordinates":[19.9856,31.85668],"type":"Point"}
+}

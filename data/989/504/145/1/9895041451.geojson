@@ -1,0 +1,72 @@
+{
+  "id": 9895041451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18422,32.88452,22.18422,32.88452",
+    "geom:latitude":32.88452,
+    "geom:longitude":22.18422,
+    "iso:country":"LY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11846280: name \"Al Hil\u0101l\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11846280"
+        },
+        {
+            "citation":"GeoNames populated place 11846280: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11846280"
+        },
+        {
+            "citation":"GeoNames populated place 11846280: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11846280"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673663 (Al Qubbah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627,
+        85673663,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11846280
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"5261389a6f392ebedb06eb0b56fce6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":9895041451,
+            "region_id":85673663
+        }
+    ],
+    "wof:id":9895041451,
+    "wof:lastmodified":1795735132,
+    "wof:name":"Al Hil\u0101l",
+    "wof:parent_id":85673663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18422,
+    32.88452,
+    22.18422,
+    32.88452
+],
+  "geometry": {"coordinates":[22.18422,32.88452],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895041449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54597,27.55775,13.54597,27.55775",
+    "geom:latitude":27.55775,
+    "geom:longitude":13.54597,
+    "iso:country":"LY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11828488: name \"Al \u1e28a\u0163\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11828488"
+        },
+        {
+            "citation":"GeoNames populated place 11828488: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11828488"
+        },
+        {
+            "citation":"GeoNames populated place 11828488: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11828488"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673579 (Ash Shati'), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632627,
+        85673579,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11828488
+    },
+    "wof:country":"LY",
+    "wof:geomhash":"73c4abc93d4f4d5bb9393648a06707b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632627,
+            "locality_id":9895041449,
+            "region_id":85673579
+        }
+    ],
+    "wof:id":9895041449,
+    "wof:lastmodified":1795735132,
+    "wof:name":"Al \u1e28a\u0163\u012byah",
+    "wof:parent_id":85673579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ly",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.54597,
+    27.55775,
+    13.54597,
+    27.55775
+],
+  "geometry": {"coordinates":[13.54597,27.55775],"type":"Point"}
+}
